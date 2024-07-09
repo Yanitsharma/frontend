@@ -1,0 +1,262 @@
+.b{
+  display: flex;
+  flex-direction: row;
+  position:relative;
+  top: 20px;
+  left: 20px;
+  size: 20px;
+
+
+}
+.bt{
+  font-size: 30px;
+}
+.bt1{
+  font-size: 30px;
+  font-style: italic;
+    color: darkred;
+}
+.contain{
+  display: flex;
+  flex-direction: row;
+  margin-top: 20px;
+}
+.google{
+  margin-right: 80px;
+  display: flex;
+  flex-direction: row;
+  border: 0.5px solid black;
+  border-radius: 30px;
+  padding: 5px;
+  padding-left: 36px;
+    padding-right: 15px;
+    position: relative;
+    left: 30px;
+    height: 60px;
+
+}
+.facebook{
+  display: flex;
+  flex-direction: row;
+  border: 0.5px solid black;
+  border-radius: 30px;
+  padding: 5px;
+  padding-left: 60px;
+    padding-right: 15px;
+    position: relative;
+    right: 10px;
+    height: 60px;
+}
+.container{
+  position: relative;
+    top: 80px;
+    left: -75px;
+    border: 1px solid lightgray;
+    width: 500px;
+    border-radius: 30px;
+    padding-bottom: 13px;
+    height: 500px;
+   background-color: silver;
+   
+
+}
+.svg{
+  font-size: 30px;
+}
+.h{
+  position: relative;
+  left: 90px;
+}
+.p{
+position: relative;
+left: 236px;
+}
+.d{
+  position: relative;
+  left: 141px;
+}
+.button{
+  margin-top: 20px;
+    margin-left: 30px;
+    padding: 10px;
+    border-radius: 30px;
+    cursor: pointer;
+
+}
+.div{
+  position: relative;
+    top: 0px;
+    /* background-color: yellow; */
+    height: 50px;
+    display: flex;
+    flex-direction: column;
+    padding-top: 10px;
+
+}
+.but{
+  width: 433px;
+    margin-top: 20px;
+    position: relative;
+    left: 35px;
+    padding: 10px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.bu{
+  position: relative;
+  top: 100px;
+  left: 34px;
+  width: 429px;
+  border-radius: 22px
+}
+.box{
+  display: flex;
+  flex-direction: row;
+}
+.book{
+  position: relative;
+    top: 171px;
+    font-size: 271px;
+    color: red;
+    right: 87px;
+}
+.log{
+  position: relative;
+  top: 6px;
+  left: 184px;
+}
+.box1{
+  display: flex;
+flex-direction: row;
+}
+.ip{
+  position: relative;
+    top: 20px;
+    left: 84px;
+    width: 498px;
+    border-radius: 30px;
+    font-size: 20px;
+    margin-left: 50px;
+
+}
+.bn{
+  position: relative;
+    top: 21px;
+    left: 41px;
+    font-size: 54px;
+    background-color: yellow;
+    width: 42px;
+    height: 42px;
+    border-radius: 25px;
+    color: red;
+    padding-left: 2px;
+    padding-top: 5px;
+    padding-bottom: 9px;}
+.nav{
+  position: relative;
+  top: 30px;
+  background-color: rgb(26, 169, 209);
+  padding-left: 20px;
+  height: 50px;
+  display: flex;
+  text-align: center;
+}
+.a{
+  text-decoration: none;
+  color: white;
+}
+.Items{
+  display: flex;
+    flex-direction: row;
+    position: relative;
+    left: 65px;
+    justify-content: space-between;
+    width: 700px;
+    top: 9px;
+}
+.div1{
+  position: relative;
+    top: 0px;
+    background-color: yellow;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    padding-top: 10px
+}
+.top{
+  position: relative;
+    left: 271px;
+    top: 10px;
+    color: goldenrod;
+}
+.container1{
+  display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    height: 500px;
+    
+}
+.dev{
+  width: 181px;
+  position: relative;
+  top: 100px;
+  left: 145px;
+  margin-right: 82px;
+  height: 403px;
+  
+}
+.it{
+  width: 100%;
+}
+h3{
+  font-size: 1.75rem;
+        font-style: italic;
+        font-weight: lighter;
+        color: goldenrod;
+}
+p{
+  margin: 0px;
+    color: red;
+    margin-bottom: 30px;
+
+}
+.price{
+  margin: 0px;
+    color: yellow;
+}
+.btn1{
+  position: relative;
+    top: 18px;
+    left: 85px;
+    width: 89px;
+    border-radius: 22px;
+}
+.filter{
+  position: relative;
+  top: 68px;
+  left: 20px;
+  display: flex;
+  flex-direction: column;
+  background-color: purple;
+  height: 350px;
+  padding-left: 20px;
+  padding-top: 20px;
+
+}
+.butto{
+  position: relative;
+    left: 6px;
+    top: 2px;
+    margin: 3px;
+}
+.pg{
+  position: relative;
+    top: 94px;
+    left: 63px
+}
+.logout{
+  position: relative;
+    top: 36px;
+    left: 1150px;
+
+}
