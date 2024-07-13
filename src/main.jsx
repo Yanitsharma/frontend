@@ -22,9 +22,9 @@ ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <Auth0Provider
  domain="dev-ksmttvco0yi5zaia.us.auth0.com"
- clientId="mWFYDZ4v7wsiwPwpaQSYIc4LA3GX0OQt"
+ clientId="kOlLIDPYernW8rS6OG17rPaQcgU7j6Wf"
  authorizationParams={{
-   redirect_uri: "http://localhost:5173/app"
+   redirect_uri: "https://client-delta-peach.vercel.app/app"
  }}
   >
    <RouterProvider router={router} />
