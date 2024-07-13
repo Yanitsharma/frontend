@@ -28,7 +28,7 @@ const Container = () => {
       Password: pass,
     };
     try {
-      let response = await axios.post("http://localhost:3000/api/home", data);
+      let response = await axios.post("https://frontend-1-j4sv.onrender.com/api/home", data);
       console.log(response.data);
       firstName.current.value = "";
     lastName.current.value = "";

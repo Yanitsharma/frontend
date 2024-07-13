@@ -18,7 +18,7 @@ function App() {
   
   
  useEffect(()=>{
-  axios.get("http://localhost:3000/api/book").then((res)=>{
+  axios.get("https://frontend-1-j4sv.onrender.com/api/book").then((res)=>{
 
       
       if(count){
@@ -44,7 +44,7 @@ function App() {
  
  const search=async (obj)=>{
   try{
-let response=await axios.post('http://localhost:3000/book',obj);
+let response=await axios.post('https://frontend-1-j4sv.onrender.com/book',obj);
 console.log(response.data);
 setbooklist(response.data);
   }
@@ -55,7 +55,7 @@ console.log(error);
  
  const filter=async (abj)=>{
   try{
-    let response=await axios.post('http://localhost:3000/book',abj);
+    let response=await axios.post('https://frontend-1-j4sv.onrender.com/book',abj);
     console.log(response.data);
     setbooklist(response.data);
       }
