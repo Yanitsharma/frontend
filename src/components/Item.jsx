@@ -7,7 +7,6 @@ const Item=({item})=>{
   <p className="price">{item.price}</p>
   <p>{item.stars}<IoStarSharp /></p>
   </div>
-
   </>
 }
 export default Item;
